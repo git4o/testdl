@@ -1,2 +1,4 @@
 [Install Type]
 csfrge
+[Instance Name]
+Poopme
